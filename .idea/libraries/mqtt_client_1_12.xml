@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mqtt-client-1.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.mqtt-client/mqtt-client/1.12/2769fa9bd22be5c1c57cacfb69a0bf6b45f73bcc/mqtt-client-1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.mqtt-client/mqtt-client/1.12/3445fc0c4e3162e9a7c310f639beeb24fc7f5d12/mqtt-client-1.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

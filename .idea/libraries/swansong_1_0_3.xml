@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="swansong-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/swaninterface/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/swaninterface/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/jars/libs/antlr-3.4-complete-no-antlrv2.jar!/" />
+      <root url="file://$PROJECT_DIR$/swaninterface/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/interdroid.swancore.swansong/swansong/1.0.3/a419e453e2098452d67d78d9096601c257d8a821/swansong-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,2900 @@
+[
+    {
+        "outputFile": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1115
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1120,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1366
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1250,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1371,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1625
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1501,
+                        "endLine": 27,
+                        "endColumn": 14,
+                        "endOffset": 1755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1630,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1760,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2149
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2023,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 2279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2154,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2284,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 2522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2638
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2527,
+                        "endLine": 43,
+                        "endColumn": 14,
+                        "endOffset": 2768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2643,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2885
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2773,
+                        "endLine": 47,
+                        "endColumn": 14,
+                        "endOffset": 3015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2890,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3122
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3020,
+                        "endLine": 51,
+                        "endColumn": 14,
+                        "endOffset": 3252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3127,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3367
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3257,
+                        "endLine": 55,
+                        "endColumn": 14,
+                        "endOffset": 3497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3372,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3621
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3502,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 3751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3626,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3872
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3756,
+                        "endLine": 63,
+                        "endColumn": 14,
+                        "endOffset": 4002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3877,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4115
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4007,
+                        "endLine": 67,
+                        "endColumn": 14,
+                        "endOffset": 4245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4120,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4367
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4250,
+                        "endLine": 71,
+                        "endColumn": 14,
+                        "endOffset": 4497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4372,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4622
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4502,
+                        "endLine": 75,
+                        "endColumn": 14,
+                        "endOffset": 4752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4627,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 4877
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4757,
+                        "endLine": 79,
+                        "endColumn": 14,
+                        "endOffset": 5007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4882,
+                    "endColumn": 101,
+                    "endOffset": 4979
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 101,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4984,
+                    "endColumn": 107,
+                    "endOffset": 5087
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 107,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5092,
+                    "endColumn": 122,
+                    "endOffset": 5210
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 122,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5215,
+                    "endColumn": 98,
+                    "endOffset": 5309
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endColumn": 98,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5314,
+                    "endColumn": 105,
+                    "endOffset": 5415
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 105,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5420,
+                    "endColumn": 85,
+                    "endOffset": 5501
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 85,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5506,
+                    "endColumn": 102,
+                    "endOffset": 5604
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 102,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5609,
+                    "endColumn": 112,
+                    "endOffset": 5717
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 112,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5722,
+                    "endColumn": 77,
+                    "endOffset": 5795
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 77,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5800,
+                    "endColumn": 77,
+                    "endOffset": 5873
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 77,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5878,
+                    "endColumn": 78,
+                    "endOffset": 5952
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 78,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5957,
+                    "endColumn": 99,
+                    "endOffset": 6052
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 99,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6057,
+                    "endColumn": 99,
+                    "endOffset": 6152
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 99,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6157,
+                    "endColumn": 95,
+                    "endOffset": 6248
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 95,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6253,
+                    "endColumn": 102,
+                    "endOffset": 6351
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 102,
+                        "endOffset": 1524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6356,
+                    "endColumn": 98,
+                    "endOffset": 6450
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1529,
+                        "endColumn": 98,
+                        "endOffset": 1623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6455,
+                    "endColumn": 106,
+                    "endOffset": 6557
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1628,
+                        "endColumn": 106,
+                        "endOffset": 1730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6562,
+                    "endColumn": 115,
+                    "endOffset": 6673
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1735,
+                        "endColumn": 115,
+                        "endOffset": 1846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6678,
+                    "endColumn": 95,
+                    "endOffset": 6769
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1851,
+                        "endColumn": 95,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6774,
+                    "endColumn": 229,
+                    "endOffset": 6999
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 229,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7004,
+                    "endColumn": 124,
+                    "endOffset": 7124
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 124,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7129,
+                    "endColumn": 170,
+                    "endOffset": 7295
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 170,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7300,
+                    "endColumn": 123,
+                    "endOffset": 7419
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 123,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7424,
+                    "endColumn": 125,
+                    "endOffset": 7545
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 125,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7550,
+                    "endColumn": 194,
+                    "endOffset": 7740
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 194,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7745,
+                    "endColumn": 191,
+                    "endOffset": 7932
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 191,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7937,
+                    "endColumn": 124,
+                    "endOffset": 8057
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1486,
+                        "endColumn": 124,
+                        "endOffset": 1606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8062,
+                    "endColumn": 153,
+                    "endOffset": 8211
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1611,
+                        "endColumn": 153,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8216,
+                    "endColumn": 119,
+                    "endOffset": 8331
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 119,
+                        "endOffset": 1880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8336,
+                    "endColumn": 154,
+                    "endOffset": 8486
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1885,
+                        "endColumn": 154,
+                        "endOffset": 2035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8491,
+                    "endColumn": 120,
+                    "endOffset": 8607
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2040,
+                        "endColumn": 120,
+                        "endOffset": 2156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8612,
+                    "endColumn": 130,
+                    "endOffset": 8738
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2161,
+                        "endColumn": 130,
+                        "endOffset": 2287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 8743,
+                    "endColumn": 170,
+                    "endOffset": 8909
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2292,
+                        "endColumn": 170,
+                        "endOffset": 2458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8914,
+                    "endColumn": 145,
+                    "endOffset": 9055
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2463,
+                        "endColumn": 145,
+                        "endOffset": 2604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 9060,
+                    "endColumn": 140,
+                    "endOffset": 9196
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2609,
+                        "endColumn": 140,
+                        "endOffset": 2745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 9201,
+                    "endColumn": 121,
+                    "endOffset": 9318
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2750,
+                        "endColumn": 121,
+                        "endOffset": 2867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 9323,
+                    "endColumn": 151,
+                    "endOffset": 9470
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2872,
+                        "endColumn": 151,
+                        "endOffset": 3019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 9475,
+                    "endColumn": 123,
+                    "endOffset": 9594
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3024,
+                        "endColumn": 123,
+                        "endOffset": 3143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 9599,
+                    "endColumn": 206,
+                    "endOffset": 9801
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 206,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 9806,
+                    "endColumn": 207,
+                    "endOffset": 10009
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3148,
+                        "endColumn": 207,
+                        "endOffset": 3351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 10014,
+                    "endColumn": 122,
+                    "endOffset": 10132
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3356,
+                        "endColumn": 122,
+                        "endOffset": 3474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 10137,
+                    "endColumn": 104,
+                    "endOffset": 10237
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3479,
+                        "endColumn": 104,
+                        "endOffset": 3579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 10242,
+                    "endColumn": 175,
+                    "endOffset": 10413
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3584,
+                        "endColumn": 175,
+                        "endOffset": 3755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 10418,
+                    "endColumn": 124,
+                    "endOffset": 10538
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3760,
+                        "endColumn": 124,
+                        "endOffset": 3880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 10543,
+                    "endColumn": 193,
+                    "endOffset": 10732
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3885,
+                        "endColumn": 193,
+                        "endOffset": 4074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 10737,
+                    "endColumn": 134,
+                    "endOffset": 10867
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4079,
+                        "endColumn": 134,
+                        "endOffset": 4209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 10872,
+                    "endColumn": 156,
+                    "endOffset": 11024
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4214,
+                        "endColumn": 156,
+                        "endOffset": 4366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 11029,
+                    "endColumn": 89,
+                    "endOffset": 11114
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4371,
+                        "endColumn": 89,
+                        "endOffset": 4456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 11119,
+                    "endColumn": 86,
+                    "endOffset": 11201
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4461,
+                        "endColumn": 86,
+                        "endOffset": 4543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 11206,
+                    "endColumn": 99,
+                    "endOffset": 11301
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4548,
+                        "endColumn": 99,
+                        "endOffset": 4643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 11306,
+                    "endColumn": 65,
+                    "endOffset": 11367
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5154,
+                        "endColumn": 65,
+                        "endOffset": 5215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 11372,
+                    "endColumn": 126,
+                    "endOffset": 11494
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5350,
+                        "endColumn": 126,
+                        "endOffset": 5472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 11499,
+                    "endColumn": 126,
+                    "endOffset": 11621
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5477,
+                        "endColumn": 126,
+                        "endOffset": 5599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 11626,
+                    "endColumn": 150,
+                    "endOffset": 11772
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5604,
+                        "endColumn": 150,
+                        "endOffset": 5750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 11777,
+                    "endColumn": 100,
+                    "endOffset": 11873
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1947,
+                        "endColumn": 100,
+                        "endOffset": 2043
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1115
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1120,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1366
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1250,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1371,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1625
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1501,
+                        "endLine": 27,
+                        "endColumn": 14,
+                        "endOffset": 1755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1630,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1760,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2149
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2023,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 2279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2154,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2284,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 2522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2638
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2527,
+                        "endLine": 43,
+                        "endColumn": 14,
+                        "endOffset": 2768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2643,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2885
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2773,
+                        "endLine": 47,
+                        "endColumn": 14,
+                        "endOffset": 3015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2890,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3122
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3020,
+                        "endLine": 51,
+                        "endColumn": 14,
+                        "endOffset": 3252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3127,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3367
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3257,
+                        "endLine": 55,
+                        "endColumn": 14,
+                        "endOffset": 3497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3372,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3621
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3502,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 3751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3626,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3872
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3756,
+                        "endLine": 63,
+                        "endColumn": 14,
+                        "endOffset": 4002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3877,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4115
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4007,
+                        "endLine": 67,
+                        "endColumn": 14,
+                        "endOffset": 4245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4120,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4367
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4250,
+                        "endLine": 71,
+                        "endColumn": 14,
+                        "endOffset": 4497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4372,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4622
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4502,
+                        "endLine": 75,
+                        "endColumn": 14,
+                        "endOffset": 4752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4627,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 4877
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4757,
+                        "endLine": 79,
+                        "endColumn": 14,
+                        "endOffset": 5007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4882,
+                    "endColumn": 101,
+                    "endOffset": 4979
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 101,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4984,
+                    "endColumn": 107,
+                    "endOffset": 5087
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 107,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5092,
+                    "endColumn": 122,
+                    "endOffset": 5210
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 122,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5215,
+                    "endColumn": 98,
+                    "endOffset": 5309
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endColumn": 98,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5314,
+                    "endColumn": 105,
+                    "endOffset": 5415
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 105,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5420,
+                    "endColumn": 85,
+                    "endOffset": 5501
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 85,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5506,
+                    "endColumn": 102,
+                    "endOffset": 5604
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 102,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5609,
+                    "endColumn": 112,
+                    "endOffset": 5717
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 112,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5722,
+                    "endColumn": 77,
+                    "endOffset": 5795
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 77,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5800,
+                    "endColumn": 77,
+                    "endOffset": 5873
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 77,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5878,
+                    "endColumn": 78,
+                    "endOffset": 5952
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 78,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5957,
+                    "endColumn": 99,
+                    "endOffset": 6052
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 99,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6057,
+                    "endColumn": 99,
+                    "endOffset": 6152
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 99,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6157,
+                    "endColumn": 95,
+                    "endOffset": 6248
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 95,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6253,
+                    "endColumn": 102,
+                    "endOffset": 6351
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 102,
+                        "endOffset": 1524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6356,
+                    "endColumn": 98,
+                    "endOffset": 6450
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1529,
+                        "endColumn": 98,
+                        "endOffset": 1623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6455,
+                    "endColumn": 106,
+                    "endOffset": 6557
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1628,
+                        "endColumn": 106,
+                        "endOffset": 1730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6562,
+                    "endColumn": 115,
+                    "endOffset": 6673
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1735,
+                        "endColumn": 115,
+                        "endOffset": 1846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6678,
+                    "endColumn": 95,
+                    "endOffset": 6769
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1851,
+                        "endColumn": 95,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6774,
+                    "endColumn": 229,
+                    "endOffset": 6999
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 229,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7004,
+                    "endColumn": 124,
+                    "endOffset": 7124
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 124,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7129,
+                    "endColumn": 170,
+                    "endOffset": 7295
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 170,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7300,
+                    "endColumn": 123,
+                    "endOffset": 7419
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 123,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7424,
+                    "endColumn": 125,
+                    "endOffset": 7545
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 125,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7550,
+                    "endColumn": 194,
+                    "endOffset": 7740
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 194,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7745,
+                    "endColumn": 191,
+                    "endOffset": 7932
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 191,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7937,
+                    "endColumn": 124,
+                    "endOffset": 8057
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1486,
+                        "endColumn": 124,
+                        "endOffset": 1606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8062,
+                    "endColumn": 153,
+                    "endOffset": 8211
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1611,
+                        "endColumn": 153,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8216,
+                    "endColumn": 119,
+                    "endOffset": 8331
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 119,
+                        "endOffset": 1880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8336,
+                    "endColumn": 154,
+                    "endOffset": 8486
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1885,
+                        "endColumn": 154,
+                        "endOffset": 2035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8491,
+                    "endColumn": 120,
+                    "endOffset": 8607
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2040,
+                        "endColumn": 120,
+                        "endOffset": 2156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8612,
+                    "endColumn": 130,
+                    "endOffset": 8738
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2161,
+                        "endColumn": 130,
+                        "endOffset": 2287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 8743,
+                    "endColumn": 170,
+                    "endOffset": 8909
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2292,
+                        "endColumn": 170,
+                        "endOffset": 2458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8914,
+                    "endColumn": 145,
+                    "endOffset": 9055
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2463,
+                        "endColumn": 145,
+                        "endOffset": 2604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 9060,
+                    "endColumn": 140,
+                    "endOffset": 9196
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2609,
+                        "endColumn": 140,
+                        "endOffset": 2745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 9201,
+                    "endColumn": 121,
+                    "endOffset": 9318
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2750,
+                        "endColumn": 121,
+                        "endOffset": 2867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 9323,
+                    "endColumn": 151,
+                    "endOffset": 9470
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2872,
+                        "endColumn": 151,
+                        "endOffset": 3019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 9475,
+                    "endColumn": 123,
+                    "endOffset": 9594
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3024,
+                        "endColumn": 123,
+                        "endOffset": 3143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 9599,
+                    "endColumn": 206,
+                    "endOffset": 9801
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 206,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 9806,
+                    "endColumn": 207,
+                    "endOffset": 10009
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3148,
+                        "endColumn": 207,
+                        "endOffset": 3351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 10014,
+                    "endColumn": 122,
+                    "endOffset": 10132
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3356,
+                        "endColumn": 122,
+                        "endOffset": 3474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 10137,
+                    "endColumn": 104,
+                    "endOffset": 10237
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3479,
+                        "endColumn": 104,
+                        "endOffset": 3579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 10242,
+                    "endColumn": 175,
+                    "endOffset": 10413
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3584,
+                        "endColumn": 175,
+                        "endOffset": 3755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 10418,
+                    "endColumn": 124,
+                    "endOffset": 10538
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3760,
+                        "endColumn": 124,
+                        "endOffset": 3880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 10543,
+                    "endColumn": 193,
+                    "endOffset": 10732
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3885,
+                        "endColumn": 193,
+                        "endOffset": 4074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 10737,
+                    "endColumn": 134,
+                    "endOffset": 10867
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4079,
+                        "endColumn": 134,
+                        "endOffset": 4209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 10872,
+                    "endColumn": 156,
+                    "endOffset": 11024
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4214,
+                        "endColumn": 156,
+                        "endOffset": 4366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 11029,
+                    "endColumn": 89,
+                    "endOffset": 11114
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4371,
+                        "endColumn": 89,
+                        "endOffset": 4456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 11119,
+                    "endColumn": 86,
+                    "endOffset": 11201
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4461,
+                        "endColumn": 86,
+                        "endOffset": 4543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 11206,
+                    "endColumn": 99,
+                    "endOffset": 11301
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/values-am/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4548,
+                        "endColumn": 99,
+                        "endOffset": 4643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 11306,
+                    "endColumn": 65,
+                    "endOffset": 11367
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5154,
+                        "endColumn": 65,
+                        "endOffset": 5215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 11372,
+                    "endColumn": 126,
+                    "endOffset": 11494
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5350,
+                        "endColumn": 126,
+                        "endOffset": 5472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 11499,
+                    "endColumn": 126,
+                    "endOffset": 11621
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5477,
+                        "endColumn": 126,
+                        "endOffset": 5599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 11626,
+                    "endColumn": 150,
+                    "endOffset": 11772
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5604,
+                        "endColumn": 150,
+                        "endOffset": 5750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 11777,
+                    "endColumn": 100,
+                    "endOffset": 11873
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-am/values-am.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1947,
+                        "endColumn": 100,
+                        "endOffset": 2043
+                    }
+                }
+            }
+        ]
+    }
+]

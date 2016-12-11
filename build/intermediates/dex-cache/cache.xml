@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_5aa21955b2bb2f3800a9338bc778eb3647b6c020/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_0d2c5e612c0597479182868b757fc8c6144364db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_400ce2ff32023f50cb0353524ba0183e91c6d16d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_55f3d0e0424ab011eef3791233e43dd56a15ad60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.8/cf615176cd1177edf71d3c9605f8dc148fede6be/otto-1.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/otto-1.3.8_5eae3e35a12be6a680fe1287f090496b4730e4a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/ttn-android-sdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="099048d87e7addcfc5d439a167bf9966f8d25f58">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/4/swan-sense-studio-master-ttn-android-sdk-unspecified_dd64f0cfada4660a77a055770e5e443b5e5baf5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/org.fusesource.hawtdispatch/hawtdispatch/1.21/ec432502e903504b81c757940f916280b03c5696/hawtdispatch-1.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec432502e903504b81c757940f916280b03c5696">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/hawtdispatch-1.21_89edaa8e0e85811bc30b8c9953c1caa896c470c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.0_ea185202c6aac334e7e907f3d4dacbbcbdc3e6fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_07685a49f8b453d057a446d42cbdee348fa9a40b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_018471ccb61dffa25ff3d6a9091119b487eb5fae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_d58f0e5cf68f18bee845f72b0dd3e530de873ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_43eff6268f2bfc5a4e3f7a29c0b4eb89feaf48f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="497ad306ee21dc8d8e16e7afe32804de363ddb39">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/interdroid.swancore.swansong-swansong-1.0.3_b921927d569c72393700ebee572a9c3a1046aeef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.9.0_e950190476e349c7953b11e20d7dbad3569269a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_5e728dd11cb6cf22db4abc6c8cf861c0ff4e19cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_e1759ad49891a4d5b1265ec651c1102a02fd02b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/libs/slf4j-api-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4564c7be36aad3e75cb3aa51773c84e169bebf5">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/2/slf4j-api-1.6.2_5a98b7d2a2749bcced88be62a125cb7804c7ca1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_b5bfa14cb7f114f97469d7729802c0e5cb9c0045/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_91be085f075f96aa8f59af6a87fd104b7391da9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_b8a6041af26051c65efb700a22fea05b06d7f30c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/libs/gcm-server.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4e541020887027b9b63c5a4ab821b846d1eb9d9">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/2/gcm-server_c9e74d2178ec9447b7cab7310ca42cee39bb39c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.4.0/a0c195f14cefc7597e0bebf22c3e7b43920dcf4/okhttp-urlconnection-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0a0c195f14cefc7597e0bebf22c3e7b43920dcf4">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-2.4.0_ab36b33aa74736aecf23144745ab01a459fb0468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/ttn-android-sdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="099048d87e7addcfc5d439a167bf9966f8d25f58">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/4/swanwithactstudio-ttn-android-sdk-unspecified_0891791db43bd06a8cb7c9afebe22167e10924f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="497ad306ee21dc8d8e16e7afe32804de363ddb39">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/interdroid.swancore.swansong-swansong-1.0.3_4dba4498c84c84953eade18c654e20806b9c08a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_291dcf9f9e7a2742371c8d8d038aff0491e54369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_16ebd4d5c1efc3acfa08f531bf4810c8c66e14fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-17.0_5472944ad4e69c7308637ec3b3609938beb69272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.github.pedrovgs/draggablepanel/1.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f6b1504ed6cbb33178b11df12d05915cae03086">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.pedrovgs-draggablepanel-1.9_d7fa2aa9e9dcf04de8e11baf3ce1ab6b9dbef5da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.lsjwzh/materialloadingprogressbar/0.5.8-RELEASE/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="02a43b4e0f1fc04fd60a3de8f6d5015d93703b3e">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.lsjwzh-materialloadingprogressbar-0.5.8-RELEASE_3ea45f678e9ce45efee44ba9b2744bd0b7ecd3e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_38b286661dd79f09821f8848d1c796dd2072ba90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_dc38d79cfffa207eec030719cc456f301fa4b88b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_a82d9d9dd02d34b86dba79bbd206ecac0e856fa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_60d6a635bf33a959d7b1202d8d9129eecde166c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_3c6473ae3f1846d96990a284cb2e70a6194b86f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_6cf62838488b1e4ccab0f21b7804a8fffc018ea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/interdroid.swancore.swanmain/swaninterface/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ab7a1aab26eb035e5e25a53e794d14aa95e2015">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/4/interdroid.swancore.swanmain-swaninterface-1.0.3_6678690696da12f74b1411d200dc4c6018ce1eae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_54ecb223c815cddae1d502b8dfd12669ced112ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8788a0e67d6e2b954774f78c8588c18fb72823ed">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/net.danlew-android.joda-2.8.2_d4a10971e9529f04e973bbd555d9a28022c2fba9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.0_1cc1277855937094c12f644e1c0ab31a8927ad55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_e31b8becea4f3fd3a6b70d68b0f51f871acdc5ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_c1d2292ac4f445d768cd00e572dc12e176eb810b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-qpxExpress/v1-rev20-1.22.0/e86a85e35b6ca5587b0c1d341961ab49a1522d60/google-api-services-qpxExpress-v1-rev20-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e86a85e35b6ca5587b0c1d341961ab49a1522d60">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-qpxExpress-v1-rev20-1.22.0_d77fae486624684f12c1a1aeda98f84faa5f4c9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/jars/libs/antlr-3.4-complete-no-antlrv2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ebf43915a4016ca81006c48048f3b4268ec4ee39">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/antlr-3.4-complete-no-antlrv2_3eb310c62d14a1f4627c1cf083ffa6f7ec74a984/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/libs/slf4j-on-android-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6477b9ad9a011884dec30d9f7e38762f558aecac">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/2/slf4j-on-android-1.6.2_af891faee7c86892dfb37e26870134a849b17d37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/libs/gcm-server.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4e541020887027b9b63c5a4ab821b846d1eb9d9">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/2/gcm-server_e2a694f9753cdf8678f3f64fbfc8a37db17ec049/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_76795ebee6cc6a8912afcb20d4f587941ce17552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_b388fb3945ffff3a2fdd06c5b38eccb37688c406/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d635ba0566039772656378e67a302aa3448f5c29">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/org.altbeacon-android-beacon-library-2.8.1_7ca412cfb092b630112131c12e92d6305a6c2e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.4.0_82996185a85db50189af8731f2955b311e9625f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_2c82d8daceed1992e8f770847d424ecc921889a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/senseandroidlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="651414b9d48b7abf63d0c164a3e772ff728ffa8e">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/4/swan-sense-studio-master-senseandroidlibrary-unspecified_9356c3a6552576567e9cd337c5132adc12313a34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/swancore/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7999cdbf6d3d784e7ed649d862abcd3a08e9d3ad">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/4/swan-sense-studio-master-swancore-unspecified_b4e72cef399236d70cf7331a80ed6eae131c646e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/senseandroidlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="651414b9d48b7abf63d0c164a3e772ff728ffa8e">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/4/swanwithactstudio-senseandroidlibrary-unspecified_3b104c081382d4f509c90ca8a3f31f2c94e3b233/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.22.0_50729c85192c524b12d4f2f6cc5530a3c6157fa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/org.fusesource.hawtbuf/hawtbuf/1.10/a20907168eb4f05c8f777e1671d8070cd06715e4/hawtbuf-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a20907168eb4f05c8f777e1671d8070cd06715e4">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/hawtbuf-1.10_a9002112eb81ad4ad3f0163c5582afea57dce973/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_3ce50ec66245a316f21a93838764e9665e995316/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_0fcaed547d4601ce6028936bf43c496b668b3674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_e2c66462d3b2334679bd09749c07b580f48d96ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.vrallev.android/cat/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c61a0369f93fb7901fde1bdae68fc71de256244c">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/net.vrallev.android-cat-1.0.5_129c335950359eb9dc6db7a29e9d6518dff50e53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_b6712cac8b8fc08b04b22a97b60af8349dd9f181/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/org.fusesource.mqtt-client/mqtt-client/1.12/2769fa9bd22be5c1c57cacfb69a0bf6b45f73bcc/mqtt-client-1.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2769fa9bd22be5c1c57cacfb69a0bf6b45f73bcc">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/mqtt-client-1.12_a6889f64bd75f550b3c16ad92e957b84c1f0cd29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/org.droidparts/droidparts/2.0.5/e4c5854b2012f5453b0cc5f62bdd306b9765990d/droidparts-2.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4c5854b2012f5453b0cc5f62bdd306b9765990d">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/droidparts-2.0.5_df152e76db978c7af82091142806b422d2d6c7de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/Java-WebSocket-1.3.0_002ed8554140803a1a88b9e909468c6a802f4f96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_76315ed2b14263926fd73196040349476b54eb4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_f3f2a73a84cf913d87befa4dd60df9c449397a48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d635ba0566039772656378e67a302aa3448f5c29">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/org.altbeacon-android-beacon-library-2.8.1_86328657570ca959f3b04ab402487d10c1ba5e07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/senseandroidlibrary/unspecified/jars/libs/gcm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="500e26beaac0b4d2dcd1e7967cf1f6026f506ae5">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/8/gcm_b4ad65fc1883ede7490a2a274b838aa2aad1b7d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.3.0_781aba145846fa5e4a9d5d7b2afa6724557d9a90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_990d3263b8ba8fbf1be5d78926a9974bf5db861a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-core/3.2.0/8a48c3373a17c5f69144edbf7211cb3b2498ddd4/scribejava-core-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a48c3373a17c5f69144edbf7211cb3b2498ddd4">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/scribejava-core-3.2.0_dd57d31d401f30766f5f76e5cefe004c415247e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_6ab020078b1af3de5cc521eff37a4cb87daa977d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-apis/3.2.0/fe361e330f5a8f9c29ee31df2b4705d94c788e04/scribejava-apis-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fe361e330f5a8f9c29ee31df2b4705d94c788e04">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/scribejava-apis-3.2.0_3801f6b9671f99627b070ca7ec50f2147b4b78dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_8c41150900b8856d77979a2ad6bb5dfb843db5b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_0516aa36d883d85de4e6eac8ec7d8e18a80c362e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/libs/cuckoo-client.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4e78e45ccaa71ab8fe32e1aad9102bf31183914a">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/2/cuckoo-client_a72372dbd9dcfdbca707054cf93672816d7050db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_7c5015e1907b74ba92eac06df168bb58f478a3d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_51e90c112ce8748e7d7eb4c22444f4305990541c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_129a27c75dd34a777578b92bed52f1e5091f054d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/senseandroidlibrary/unspecified/jars/libs/gcm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="500e26beaac0b4d2dcd1e7967cf1f6026f506ae5">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/8/gcm_6ab63d21f518a696f03e6be3f58bfba472f75d0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-1.3.9_20b172c76dc44733029b0f24aa089c05be2b0034/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_2b13bd5c859c5b77354f11a1b88e6c2a4a251e06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.lsjwzh/materialloadingprogressbar/0.5.8-RELEASE/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="02a43b4e0f1fc04fd60a3de8f6d5015d93703b3e">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.lsjwzh-materialloadingprogressbar-0.5.8-RELEASE_c502fa4703197a71572b3c6c90f1f3c933ffade1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/swancore/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="16712fc442386665cb8c12b25b0cf9e755e74d8a">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/4/swanwithactstudio-swancore-unspecified_6f4509e1f6108af51bb267391ba9a1e5173530e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.vrallev.android/cat/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c61a0369f93fb7901fde1bdae68fc71de256244c">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/net.vrallev.android-cat-1.0.5_f2c088901b50038436f3db1df8c018ea726c9bb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_0348f122089be0fc39bb9aa93193fb96192fe116/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_1f08cd3f87bf08790be2df0dd77b19d3fdaf741a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/org.fusesource.hawtdispatch/hawtdispatch-transport/1.21/94eece2d30f6d45324c48213762cdc2ec338e687/hawtdispatch-transport-1.21.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94eece2d30f6d45324c48213762cdc2ec338e687">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/hawtdispatch-transport-1.21_91b83902d26d83d04f9f0a3e1ee04f3af6671ca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_25ecd7c527c4f8a571d62b8425d6bf53e27e0435/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/libs/slf4j-api-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4564c7be36aad3e75cb3aa51773c84e169bebf5">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/2/slf4j-api-1.6.2_7cbd4bccae25e517f635e941472fe5b5295499ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/libs/cuckoo-client.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4e78e45ccaa71ab8fe32e1aad9102bf31183914a">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/2/cuckoo-client_74f8c0f1625a035f8609ccd6c43ed34d44d93fe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_10873c0d472ec6acf81a0518e78b7ef99ee00096/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.3.1_a6cd4b3be3b57190e640b4c175d4a609365628b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.yalantis/pulltorefresh/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4965724e57aabebbdd3e301873e5886fa6fdd6dc">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.yalantis-pulltorefresh-1.0.0_64d676ac041000b31573b972703d6ddadabcb142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/libs/slf4j-on-android-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6477b9ad9a011884dec30d9f7e38762f558aecac">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/2/slf4j-on-android-1.6.2_4f4489a57cb6990eddf7db755cb895a799894b64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_0129223acf4c827a13053f19f4035ed070130ea7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_c3381dd4190c134ab34a0aa2d7d538477d82e629/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_415a90baad7f8e6451a4e17137d14b856865670c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8788a0e67d6e2b954774f78c8588c18fb72823ed">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/net.danlew-android.joda-2.8.2_e33fe4a7bd2d27c1931517c8f321682c30093022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_e35c0965d00036d73c67de98b6385d7772bb1c1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_9e92f20fef5d323e30215f2861e463d186425dda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/interdroid.swancore.swanmain/swaninterface/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ed50d675a558f275ea4d6ae2f298f2a0e45e0928">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/4/interdroid.swancore.swanmain-swaninterface-1.0.3_3b5ffe688db9a06355dd0c45b18844938d9d9c32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_e37f520a7fb3656bdcc39bd6559538d9e8e113be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/senseandroidlibrary/unspecified/jars/libs/cordova-4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0907df6b30d472674bae205b710b6d8b6f288a97">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/8/cordova-4.1.1_19d2d52cc27e3e0445307be372f899c84d555f55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.8.2/af707570c2611aa8584a7773796badd7ab09c0cf/joda-time-2.8.2-no-tzdb.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="af707570c2611aa8584a7773796badd7ab09c0cf">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.8.2-no-tzdb_89d76b12bcae086fbb49e8e89b8db6a17cb319bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_f9853887e8f5614b65ed19f8b6883aae81217bec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_721820b5df9a078bd5af2318f50d482bf922d5fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/libs/scribe-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2cebb7f7c5032ad40db35664570ca7dd988146a">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/2/scribe-1.2.0_d0ab0d636a12b4397e23e0ebbac654a5ff5b772c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_fd29a9c7265b50b56201c2b63537e2fcd4d48ef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_f58f72cea1e06d17ee036de8a44f64657235ced0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/senseandroidlibrary/unspecified/jars/libs/cordova-4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0907df6b30d472674bae205b710b6d8b6f288a97">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/8/cordova-4.1.1_06d8ee8d7df2fd7aa0d93110cb4b163cf51b666e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Downloads/swan-sense-studio-master/phone/libs/scribe-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2cebb7f7c5032ad40db35664570ca7dd988146a">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/2/scribe-1.2.0_8fb4fc768371bd547ca0aa3185c4edae9872903b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/jars/libs/antlr-3.4-complete-no-antlrv2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ebf43915a4016ca81006c48048f3b4268ec4ee39">
+        <dex dex="/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/transforms/dex/debug/folders/1000/10/antlr-3.4-complete-no-antlrv2_4d42e68f54159438d76e61fc30fe75b1961d444c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.4.0_bf756ed812b04460bd367c728e2c7dab0b61b550/classes.dex" />
+    </item>
+
+</items>

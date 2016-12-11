@@ -1,0 +1,1646 @@
+[
+    {
+        "outputFile": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1131
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 1265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1136,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1270,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1646
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1523,
+                        "endLine": 27,
+                        "endColumn": 14,
+                        "endOffset": 1780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1651,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1913
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1785,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 2047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1918,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2178
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2052,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 2312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2183,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2422
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2317,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 2556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2427,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2672
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2561,
+                        "endLine": 43,
+                        "endColumn": 14,
+                        "endOffset": 2806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2677,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2811,
+                        "endLine": 47,
+                        "endColumn": 14,
+                        "endOffset": 3056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3169
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3061,
+                        "endLine": 51,
+                        "endColumn": 14,
+                        "endOffset": 3303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3174,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3412
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3308,
+                        "endLine": 55,
+                        "endColumn": 14,
+                        "endOffset": 3546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3417,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3675
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3551,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 3809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3680,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3938
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3814,
+                        "endLine": 63,
+                        "endColumn": 14,
+                        "endOffset": 4072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3943,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4077,
+                        "endLine": 67,
+                        "endColumn": 14,
+                        "endOffset": 4317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4438
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4322,
+                        "endLine": 71,
+                        "endColumn": 14,
+                        "endOffset": 4572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4443,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4699
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4577,
+                        "endLine": 75,
+                        "endColumn": 14,
+                        "endOffset": 4833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4704,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 4960
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4838,
+                        "endLine": 79,
+                        "endColumn": 14,
+                        "endOffset": 5094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4965,
+                    "endColumn": 97,
+                    "endOffset": 5058
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 97,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5063,
+                    "endColumn": 107,
+                    "endOffset": 5166
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 107,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5171,
+                    "endColumn": 122,
+                    "endOffset": 5289
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 122,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5294,
+                    "endColumn": 98,
+                    "endOffset": 5388
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 98,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5393,
+                    "endColumn": 109,
+                    "endOffset": 5498
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 109,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5503,
+                    "endColumn": 87,
+                    "endOffset": 5586
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 87,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5591,
+                    "endColumn": 106,
+                    "endOffset": 5693
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 106,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5698,
+                    "endColumn": 113,
+                    "endOffset": 5807
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 113,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5812,
+                    "endColumn": 80,
+                    "endOffset": 5888
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 80,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5893,
+                    "endColumn": 78,
+                    "endOffset": 5967
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 78,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5972,
+                    "endColumn": 84,
+                    "endOffset": 6052
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 84,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6057,
+                    "endColumn": 106,
+                    "endOffset": 6159
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 106,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6164,
+                    "endColumn": 106,
+                    "endOffset": 6266
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1254,
+                        "endColumn": 106,
+                        "endOffset": 1356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6271,
+                    "endColumn": 99,
+                    "endOffset": 6366
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1361,
+                        "endColumn": 99,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6371,
+                    "endColumn": 108,
+                    "endOffset": 6475
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 108,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6480,
+                    "endColumn": 103,
+                    "endOffset": 6579
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 103,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6584,
+                    "endColumn": 109,
+                    "endOffset": 6689
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1674,
+                        "endColumn": 109,
+                        "endOffset": 1779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6694,
+                    "endColumn": 96,
+                    "endOffset": 6786
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1784,
+                        "endColumn": 96,
+                        "endOffset": 1876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6791,
+                    "endColumn": 134,
+                    "endOffset": 6921
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5099,
+                        "endColumn": 134,
+                        "endOffset": 5229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6926,
+                    "endColumn": 129,
+                    "endOffset": 7051
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5234,
+                        "endColumn": 129,
+                        "endOffset": 5359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7056,
+                    "endColumn": 150,
+                    "endOffset": 7202
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5364,
+                        "endColumn": 150,
+                        "endOffset": 5510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7207,
+                    "endColumn": 100,
+                    "endOffset": 7303
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1881,
+                        "endColumn": 100,
+                        "endOffset": 1977
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 1000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1131
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 1265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1136,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1270,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1646
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1523,
+                        "endLine": 27,
+                        "endColumn": 14,
+                        "endOffset": 1780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1651,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1913
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1785,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 2047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1918,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2178
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2052,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 2312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2183,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2422
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2317,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 2556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2427,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2672
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2561,
+                        "endLine": 43,
+                        "endColumn": 14,
+                        "endOffset": 2806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2677,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2811,
+                        "endLine": 47,
+                        "endColumn": 14,
+                        "endOffset": 3056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3169
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3061,
+                        "endLine": 51,
+                        "endColumn": 14,
+                        "endOffset": 3303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3174,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3412
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3308,
+                        "endLine": 55,
+                        "endColumn": 14,
+                        "endOffset": 3546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3417,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3675
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3551,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 3809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3680,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3938
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3814,
+                        "endLine": 63,
+                        "endColumn": 14,
+                        "endOffset": 4072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3943,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4077,
+                        "endLine": 67,
+                        "endColumn": 14,
+                        "endOffset": 4317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4438
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4322,
+                        "endLine": 71,
+                        "endColumn": 14,
+                        "endOffset": 4572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4443,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4699
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4577,
+                        "endLine": 75,
+                        "endColumn": 14,
+                        "endOffset": 4833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4704,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 4960
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4838,
+                        "endLine": 79,
+                        "endColumn": 14,
+                        "endOffset": 5094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4965,
+                    "endColumn": 97,
+                    "endOffset": 5058
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 97,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5063,
+                    "endColumn": 107,
+                    "endOffset": 5166
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 107,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5171,
+                    "endColumn": 122,
+                    "endOffset": 5289
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 122,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5294,
+                    "endColumn": 98,
+                    "endOffset": 5388
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 98,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5393,
+                    "endColumn": 109,
+                    "endOffset": 5498
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 109,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5503,
+                    "endColumn": 87,
+                    "endOffset": 5586
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 87,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5591,
+                    "endColumn": 106,
+                    "endOffset": 5693
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 106,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5698,
+                    "endColumn": 113,
+                    "endOffset": 5807
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 113,
+                        "endOffset": 897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5812,
+                    "endColumn": 80,
+                    "endOffset": 5888
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 80,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5893,
+                    "endColumn": 78,
+                    "endOffset": 5967
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 78,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5972,
+                    "endColumn": 84,
+                    "endOffset": 6052
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 84,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6057,
+                    "endColumn": 106,
+                    "endOffset": 6159
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 106,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6164,
+                    "endColumn": 106,
+                    "endOffset": 6266
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1254,
+                        "endColumn": 106,
+                        "endOffset": 1356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6271,
+                    "endColumn": 99,
+                    "endOffset": 6366
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1361,
+                        "endColumn": 99,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6371,
+                    "endColumn": 108,
+                    "endOffset": 6475
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 108,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6480,
+                    "endColumn": 103,
+                    "endOffset": 6579
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1570,
+                        "endColumn": 103,
+                        "endOffset": 1669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6584,
+                    "endColumn": 109,
+                    "endOffset": 6689
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1674,
+                        "endColumn": 109,
+                        "endOffset": 1779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6694,
+                    "endColumn": 96,
+                    "endOffset": 6786
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1784,
+                        "endColumn": 96,
+                        "endOffset": 1876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6791,
+                    "endColumn": 134,
+                    "endOffset": 6921
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5099,
+                        "endColumn": 134,
+                        "endOffset": 5229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6926,
+                    "endColumn": 129,
+                    "endOffset": 7051
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5234,
+                        "endColumn": 129,
+                        "endOffset": 5359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7056,
+                    "endColumn": 150,
+                    "endOffset": 7202
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5364,
+                        "endColumn": 150,
+                        "endOffset": 5510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7207,
+                    "endColumn": 100,
+                    "endOffset": 7303
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-az-rAZ/values-az-rAZ.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1881,
+                        "endColumn": 100,
+                        "endOffset": 1977
+                    }
+                }
+            }
+        ]
+    }
+]

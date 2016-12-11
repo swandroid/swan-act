@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cuckoo-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/phone/libs/cuckoo-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

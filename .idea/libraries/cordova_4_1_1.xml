@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cordova-4.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/senseandroidlibrary/libs/cordova-4.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

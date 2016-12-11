@@ -1,0 +1,30 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.0'
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.4.1'
+        classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.2'
+        //For connection to Firebase
+        classpath 'com.google.gms:google-services:3.0.0'
+    }
+}
+
+ext {
+    compileSdkVersion = 23
+    buildToolsVersion = "23.0.2"
+}
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+
+/* uncomment this if you want to skip building javadocs (as they have errors) */
+subprojects {
+    tasks.withType(Javadoc).all { enabled = false }
+}

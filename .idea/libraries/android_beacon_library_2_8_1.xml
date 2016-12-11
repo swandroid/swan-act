@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android-beacon-library-2.8.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/res" />
+      <root url="jar://$PROJECT_DIR$/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

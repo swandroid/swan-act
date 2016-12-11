@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/rm/Desktop/swanwithactstudio/senseandroidlibrary/src/main/assets"/><source path="/Users/rm/Desktop/swanwithactstudio/senseandroidlibrary/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/rm/Desktop/swanwithactstudio/senseandroidlibrary/src/release/assets"/></dataSet></merger>

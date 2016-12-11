@@ -1,0 +1,836 @@
+[
+    {
+        "outputFile": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/incremental/mergeDebugResources/merged.dir/values-rm/values-rm.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 865
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 870,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1515,
+                        "endLine": 27,
+                        "endColumn": 14,
+                        "endOffset": 1771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1909
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1776,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 2039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1914,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2180
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2044,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 2310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2185,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2423
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2315,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 2553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2428,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2669
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2558,
+                        "endLine": 43,
+                        "endColumn": 14,
+                        "endOffset": 2799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2674,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2924
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2804,
+                        "endLine": 47,
+                        "endColumn": 14,
+                        "endOffset": 3054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2929,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3181
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3059,
+                        "endLine": 51,
+                        "endColumn": 14,
+                        "endOffset": 3311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3186,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3424
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3316,
+                        "endLine": 55,
+                        "endColumn": 14,
+                        "endOffset": 3554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3429,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3678
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3559,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 3808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3683,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3940
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3813,
+                        "endLine": 63,
+                        "endColumn": 14,
+                        "endOffset": 4070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3945,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4204
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4075,
+                        "endLine": 67,
+                        "endColumn": 14,
+                        "endOffset": 4334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4209,
+                    "endColumn": 66,
+                    "endOffset": 4271
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4481,
+                        "endColumn": 66,
+                        "endOffset": 4543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4276,
+                    "endColumn": 130,
+                    "endOffset": 4402
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4678,
+                        "endColumn": 130,
+                        "endOffset": 4804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4407,
+                    "endColumn": 128,
+                    "endOffset": 4531
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4809,
+                        "endColumn": 128,
+                        "endOffset": 4933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4536,
+                    "endColumn": 154,
+                    "endOffset": 4686
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4938,
+                        "endColumn": 154,
+                        "endOffset": 5088
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/incremental/mergeDebugResources/merged.dir/values-rm/values-rm.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 7,
+                        "endColumn": 14,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 11,
+                        "endColumn": 14,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 865
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endLine": 15,
+                        "endColumn": 14,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 870,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endLine": 19,
+                        "endColumn": 14,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endLine": 23,
+                        "endColumn": 14,
+                        "endOffset": 1510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1515,
+                        "endLine": 27,
+                        "endColumn": 14,
+                        "endOffset": 1771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1646,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1909
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1776,
+                        "endLine": 31,
+                        "endColumn": 14,
+                        "endOffset": 2039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1914,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2180
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2044,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 2310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2185,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2423
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2315,
+                        "endLine": 39,
+                        "endColumn": 14,
+                        "endOffset": 2553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2428,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2669
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2558,
+                        "endLine": 43,
+                        "endColumn": 14,
+                        "endOffset": 2799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2674,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2924
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2804,
+                        "endLine": 47,
+                        "endColumn": 14,
+                        "endOffset": 3054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2929,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3181
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3059,
+                        "endLine": 51,
+                        "endColumn": 14,
+                        "endOffset": 3311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3186,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3424
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3316,
+                        "endLine": 55,
+                        "endColumn": 14,
+                        "endOffset": 3554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3429,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3678
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3559,
+                        "endLine": 59,
+                        "endColumn": 14,
+                        "endOffset": 3808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3683,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3940
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3813,
+                        "endLine": 63,
+                        "endColumn": 14,
+                        "endOffset": 4070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3945,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4204
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4075,
+                        "endLine": 67,
+                        "endColumn": 14,
+                        "endOffset": 4334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4209,
+                    "endColumn": 66,
+                    "endOffset": 4271
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4481,
+                        "endColumn": 66,
+                        "endOffset": 4543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4276,
+                    "endColumn": 130,
+                    "endOffset": 4402
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4678,
+                        "endColumn": 130,
+                        "endOffset": 4804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4407,
+                    "endColumn": 128,
+                    "endOffset": 4531
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4809,
+                        "endColumn": 128,
+                        "endOffset": 4933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4536,
+                    "endColumn": 154,
+                    "endOffset": 4686
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-rm/values-rm.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4938,
+                        "endColumn": 154,
+                        "endOffset": 5088
+                    }
+                }
+            }
+        ]
+    }
+]

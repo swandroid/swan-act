@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hawtdispatch-transport-1.21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.hawtdispatch/hawtdispatch-transport/1.21/94eece2d30f6d45324c48213762cdc2ec338e687/hawtdispatch-transport-1.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fusesource.hawtdispatch/hawtdispatch-transport/1.21/16a62362d3fa2698dc60e6b799e8bf1d147db3df/hawtdispatch-transport-1.21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

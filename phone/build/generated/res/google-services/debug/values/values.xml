@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">939882258143-b3t2d6jncef6uu1pk0slrldsp8f8kcbs.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://swan-f1830.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">939882258143</string>
+    <string name="google_api_key" translatable="false">AIzaSyBkf2RdixqzNZSVRRzW-Y-l1YbNGofORPk</string>
+    <string name="google_app_id" translatable="false">1:939882258143:android:8647184d42aad812</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBkf2RdixqzNZSVRRzW-Y-l1YbNGofORPk</string>
+    <string name="google_storage_bucket" translatable="false">swan-f1830.appspot.com</string>
+</resources>

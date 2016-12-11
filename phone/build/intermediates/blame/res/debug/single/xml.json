@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/battery_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/battery_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/cuckoo_server_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/cuckoo_server_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/backup_config.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/backup_config.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/beacon_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/beacon_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/sense_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/sense_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/proximity_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/proximity_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/wear_heartrate_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/wear_heartrate_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/location_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/location_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/proximity_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/proximity_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/serverstatus_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/serverstatus_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/news_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/news_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/magnetometer_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/magnetometer_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/pressure_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/pressure_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/beacon_motion_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/beacon_motion_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/time_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/time_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/rain_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/rain_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/sound_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/sound_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/default_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/default_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/logcat_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/logcat_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/stepdetector_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/stepdetector_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/location_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/location_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/wear_test_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/wear_test_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/temperature_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/temperature_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/twitter_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/twitter_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/temperature_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/temperature_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/beacon_motion_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/beacon_motion_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/fitness_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/fitness_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/beacon_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/beacon_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/call_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/call_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/alarm_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/alarm_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/wear_heartrate_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/wear_heartrate_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/polar_hrm_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/polar_hrm_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/wifi_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/wifi_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/server_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/server_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/light_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/light_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/wear_test_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/wear_test_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/gravity_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/gravity_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/polar_hrm_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/polar_hrm_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/default_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/default_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/smart_location_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/smart_location_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/twitter_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/twitter_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/gyroscope_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/gyroscope_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/bluetooth_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/bluetooth_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/backup_config.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/backup_config.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/cuckoo_rain_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/cuckoo_rain_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/sound_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/sound_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/time_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/time_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/news_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/news_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/smart_location_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/smart_location_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/server_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/server_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/fitness_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/fitness_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/gyroscope_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/gyroscope_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/movement_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/movement_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/screen_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/screen_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/intent_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/intent_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/cuckoo_rain_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/cuckoo_rain_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/ov_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/ov_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/screen_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/screen_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/stepdetector_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/stepdetector_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/magnetometer_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/magnetometer_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/bluetooth_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/bluetooth_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/calendar_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/calendar_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/train_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/train_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/nfc.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/senseandroidlibrary/unspecified/res/xml/nfc.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/sense_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/sense_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/flight_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/flight_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/serverstatus_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/serverstatus_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/alarm_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/alarm_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/gravity_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/gravity_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/stepcounter_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/stepcounter_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/rain_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/rain_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/intent_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/intent_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/stepcounter_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/stepcounter_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/nfc.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/senseandroidlibrary/unspecified/res/xml/nfc.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/movement_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/movement_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/battery_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/battery_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/gsm_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/gsm_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/pressure_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/pressure_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/gsm_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/gsm_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/train_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/train_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/flight_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/flight_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/calendar_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/calendar_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/beacon_distance_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/beacon_distance_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/ov_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/ov_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/beacon_distance_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/beacon_distance_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/xml/light_preferences.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/xml/light_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/wifi_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/wifi_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/cuckoo_server_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/cuckoo_server_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/call_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/call_preferences.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/xml/logcat_preferences.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/xml/logcat_preferences.xml"
+    }
+]

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "939882258143",
+    "firebase_url": "https://swan-f1830.firebaseio.com",
+    "project_id": "swan-f1830",
+    "storage_bucket": "swan-f1830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939882258143:android:8ab87b69e5b7fb43",
+        "android_client_info": {
+          "package_name": "com.example.rm.actuatorsswan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939882258143-b3t2d6jncef6uu1pk0slrldsp8f8kcbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkf2RdixqzNZSVRRzW-Y-l1YbNGofORPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939882258143:android:8647184d42aad812",
+        "android_client_info": {
+          "package_name": "interdroid.swan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939882258143-b3t2d6jncef6uu1pk0slrldsp8f8kcbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkf2RdixqzNZSVRRzW-Y-l1YbNGofORPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

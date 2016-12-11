@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="Value Path">
+		<ListPreference android:title="Value Path"
+			android:summary="Select a Value Path" android:key="valuepath"
+			android:entries="@array/train_valuepaths" android:entryValues="@array/train_valuepaths" />
+	</PreferenceCategory>
+	<PreferenceCategory android:title="Configuration">
+		<EditTextPreference
+			android:key="from"
+			android:inputType="text"
+			android:dialogTitle="Enter Departure Station"
+			android:summary="Set Departure Station"
+			android:title="Departure Station"
+		/>
+		<EditTextPreference
+			android:key="to"
+			android:inputType="text"
+			android:dialogTitle="Enter Destination Station"
+			android:summary="Set Destination Station"
+			android:title="Destination Station"
+		/>
+		<ListPreference
+			android:key="type"
+			android:entries="@array/train_types"
+			android:entryValues="@array/types"
+			android:dialogTitle="Choose Type"
+			android:summary="Set Type"
+			android:title="Type"
+		/>
+		<EditTextPreference
+			android:key="time"
+			android:inputType="text"
+			android:dialogTitle="Enter Time (hh:mm)"
+			android:summary="Set Time (hh:mm)"
+			android:title="Time (hh:mm)"
+		/>
+	</PreferenceCategory>
+</PreferenceScreen>

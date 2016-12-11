@@ -1,0 +1,2028 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:2:1-1940:12
+	package
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+	tools:ignore
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:7:5-52
+	xmlns:android
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:10:5-61
+MERGED from [swanwithactstudio:senseandroidlibrary:unspecified] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/senseandroidlibrary/unspecified/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.3.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [swanwithactstudio:swancore:unspecified] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/swancore/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
+MERGED from [interdroid.swancore.swanmain:swaninterface:1.0.3] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/interdroid.swancore.swanmain/swaninterface/1.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [interdroid.swancore.swansong:swansong:1.0.3] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/AndroidManifest.xml:19:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.1.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [swanwithactstudio:ttn-android-sdk:unspecified] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/ttn-android-sdk/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [net.danlew:android.joda:2.8.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.lsjwzh:materialloadingprogressbar:0.5.8-RELEASE] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.lsjwzh/materialloadingprogressbar/0.5.8-RELEASE/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.volley:volley:1.0.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/AndroidManifest.xml:7:5-43
+MERGED from [net.vrallev.android:cat:1.0.5] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.vrallev.android/cat/1.0.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pedrovgs:draggablepanel:1.9] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.github.pedrovgs/draggablepanel/1.9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yalantis:pulltorefresh:1.0.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.yalantis/pulltorefresh/1.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-core:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.0.2/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:10:15-58
+	android:targetSdkVersion
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+		INJECTED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:17:5-74
+MERGED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:17:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:18:5-68
+MERGED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.BODY_SENSORS
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:19:22-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:20:5-66
+MERGED from [swanwithactstudio:ttn-android-sdk:unspecified] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/ttn-android-sdk/unspecified/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:25:5-69
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:25:22-66
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:26:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:29:22-76
+uses-permission#android.permission.WRITE_USER_DICTIONARY
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:30:22-77
+uses-permission#android.permission.NFC
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:31:5-62
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:31:22-59
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:32:5-68
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:32:22-65
+uses-permission#interdroid.vdb.permission.READ_DATABASE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:33:22-76
+uses-permission#interdroid.vdb.permission.WRITE_DATABASE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:34:5-80
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:34:22-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:36:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:36:22-79
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:40:5-67
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:40:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:41:5-71
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:41:22-68
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:42:5-72
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:42:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:43:22-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:44:5-81
+MERGED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:44:22-78
+uses-permission#android.permission.BIND_JOB_SERVICE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:45:5-75
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:45:22-72
+uses-feature#android.hardware.camera
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:47:5-49:35
+	android:required
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:49:9-32
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:48:9-47
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:51:5-72
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:51:22-69
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:52:5-75
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:52:22-72
+application
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:57:5-1938:19
+MERGED from [com.android.support:support-v4:23.3.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.firebase:firebase-common:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/AndroidManifest.xml:24:5-20
+MERGED from [swanwithactstudio:swancore:unspecified] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/swancore/unspecified/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [interdroid.swancore.swanmain:swaninterface:1.0.3] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/interdroid.swancore.swanmain/swaninterface/1.0.3/AndroidManifest.xml:11:5-15:19
+MERGED from [interdroid.swancore.swansong:swansong:1.0.3] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-identity:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/AndroidManifest.xml:19:5-20
+MERGED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:17:5-36:19
+MERGED from [com.android.support:design:23.1.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.support/design/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [swanwithactstudio:ttn-android-sdk:unspecified] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/ttn-android-sdk/unspecified/AndroidManifest.xml:14:5-17:38
+MERGED from [net.danlew:android.joda:2.8.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/AndroidManifest.xml:9:5-20
+MERGED from [com.lsjwzh:materialloadingprogressbar:0.5.8-RELEASE] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.lsjwzh/materialloadingprogressbar/0.5.8-RELEASE/AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.firebase:firebase-messaging:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:30:5-59:19
+MERGED from [com.android.volley:volley:1.0.0] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:26:5-41:19
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:61:9-46
+		REJECTED from [swanwithactstudio:swancore:unspecified] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/swancore/unspecified/AndroidManifest.xml:13:9-41
+		REJECTED from [interdroid.swancore.swanmain:swaninterface:1.0.3] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/interdroid.swancore.swanmain/swaninterface/1.0.3/AndroidManifest.xml:13:9-41
+		REJECTED from [interdroid.swancore.swansong:swansong:1.0.3] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/interdroid.swancore.swansong/swansong/1.0.3/AndroidManifest.xml:13:9-41
+		REJECTED from [swanwithactstudio:ttn-android-sdk:unspecified] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/ttn-android-sdk/unspecified/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from [swanwithactstudio:swancore:unspecified] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/swancore/unspecified/AndroidManifest.xml:14:9-35
+	android:fullBackupContent
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:59:9-55
+	android:allowBackup
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:58:9-35
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:60:9-50
+	android:largeHeap
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:62:9-33
+	tools:replace
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:63:9-30
+meta-data#com.google.android.gms.version
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:64:9-66:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:66:13-66
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:65:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:81:9-83:55
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:83:13-52
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:82:13-58
+receiver#interdroid.swan.crossdevice.CrossDeviceReceiver
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:86:9-94:20
+	android:permission
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:88:13-73
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:87:13-60
+intent-filter#com.google.android.c2dm.intent.RECEIVE+interdroid.swan
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:89:13-93:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:90:17-81
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:90:25-78
+category#interdroid.swan
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:92:17-60
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:92:27-57
+receiver#interdroid.swancore.crossdevice.Registry$Receiver
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:95:9-99:20
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:95:19-83
+intent-filter#interdroid.swan.GET_NAMES
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:96:13-98:29
+action#interdroid.swan.GET_NAMES
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:97:17-68
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:97:25-65
+activity#interdroid.swan.crossdevice.SwanLakeActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:101:9-118:20
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:104:13-60
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:103:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:102:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:106:13-110:29
+action#android.intent.action.MAIN
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:107:17-69
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:107:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:109:17-77
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:109:27-74
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:111:13-117:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:112:17-77
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:112:25-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:114:17-76
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:114:27-73
+data
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:116:17-47
+	android:scheme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:116:23-44
+activity#interdroid.swan.crossdevice.SwanLakePlusActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:119:9-138:20
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:121:13-38
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:120:13-61
+activity#interdroid.swan.crossdevice.TestActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:139:9-156:20
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:143:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:142:13-43
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:141:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:140:13-53
+activity#interdroid.swan.remote.cloud.CloudTestActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:157:9-167:20
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:160:13-44
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:159:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:158:13-59
+activity#interdroid.swan.actuators.ActuatorsActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:168:9-178:20
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:172:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:171:13-42
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:170:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:169:13-56
+activity#interdroid.sense.LoginActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:179:9-183:52
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:183:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:182:13-57
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:181:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:180:13-58
+activity#interdroid.sense.RegistrationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:184:9-188:52
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:188:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:187:13-60
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:186:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:185:13-65
+activity#interdroid.sense.SettingsActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:189:9-192:52
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:192:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:191:13-43
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:190:13-61
+activity#interdroid.swan.ttn.TtnActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:193:9-203:20
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:195:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:197:13-54
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:196:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:194:13-44
+receiver#interdroid.swan.engine.EvaluationEngineReceiver
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:206:9-217:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:208:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:207:13-60
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT+interdroid.swan.NOTIFY+interdroid.swan.REGISTER+interdroid.swan.UNREGISTER
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:209:13-216:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:210:17-79
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:210:25-76
+action#interdroid.swan.REGISTER
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:211:17-67
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:211:25-64
+action#interdroid.swan.UNREGISTER
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:212:17-69
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:212:25-66
+action#interdroid.swan.NOTIFY
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:213:17-65
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:213:25-62
+service#interdroid.swan.remote.cloud.FirebaseMessageService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:219:9-223:19
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:219:18-69
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:220:13-222:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:221:17-78
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:221:25-75
+service#interdroid.swan.remote.cloud.FirebaseTokenService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:224:9-228:19
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:224:18-67
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:225:13-227:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:226:17-80
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:226:25-77
+service#interdroid.swan.engine.EvaluationEngineService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:229:9-231:40
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:231:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:230:13-59
+activity#interdroid.swan.engine.ExpressionViewerActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:233:9-238:47
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:237:13-59
+	android:launchMode
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:238:13-44
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:235:13-37
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:236:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:234:13-60
+activity#interdroid.swan.engine.SensorViewerActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:239:9-244:47
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:243:13-55
+	android:launchMode
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:244:13-44
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:241:13-37
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:242:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:240:13-56
+activity#interdroid.swan.ui.ExpressionBuilderActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:248:9-257:20
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:251:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:250:13-47
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:249:13-57
+intent-filter#android.intent.category.DEFAULT+interdroid.swan.ui.BUILD_EXPRESSION
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:252:13-256:29
+action#interdroid.swan.ui.BUILD_EXPRESSION
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:253:17-78
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:253:25-75
+activity#interdroid.swan.ui.NewExpressionDialog
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:258:9-263:59
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:262:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:261:13-43
+	android:excludeFromRecents
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:260:13-46
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:263:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:259:13-51
+activity#interdroid.swan.ui.SelectTypedValueDialog
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:264:9-269:59
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:268:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:267:13-46
+	android:excludeFromRecents
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:266:13-46
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:269:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:265:13-54
+activity#interdroid.swan.ui.SelectComparatorDialog
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:270:9-275:59
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:274:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:273:13-46
+	android:excludeFromRecents
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:272:13-46
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:275:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:271:13-54
+activity#interdroid.swan.ui.EnterConstantDialog
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:276:9-281:59
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:280:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:279:13-43
+	android:excludeFromRecents
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:278:13-46
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:281:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:277:13-51
+activity#interdroid.swan.ui.SelectSensorDialog
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:282:9-287:59
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:286:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:285:13-42
+	android:excludeFromRecents
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:284:13-46
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:287:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:283:13-50
+activity#interdroid.swan.ui.SelectExpressionDialog
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:288:9-293:59
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:292:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:291:13-46
+	android:excludeFromRecents
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:290:13-46
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:293:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:289:13-54
+activity#interdroid.swan.ui.MergeExpressionDialog
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:294:9-299:59
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:298:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:297:13-46
+	android:excludeFromRecents
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:296:13-46
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:299:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:295:13-53
+activity#interdroid.swan.ui.NewMathExpressionDialog
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:300:9-305:59
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:304:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:303:13-53
+	android:excludeFromRecents
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:302:13-46
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:305:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:301:13-55
+activity#interdroid.swan.ui.SelectOperatorDialog
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:306:9-311:59
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:310:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:309:13-44
+	android:excludeFromRecents
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:308:13-46
+	android:theme
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:311:13-56
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:307:13-52
+activity#interdroid.swancore.sensors.AbstractConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:314:9-324:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:316:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:315:13-85
+intent-filter#interdroid.swan.DEFAULT_PREFERENCES
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:317:13-319:29
+action#interdroid.swan.DEFAULT_PREFERENCES
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:318:17-78
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:318:25-75
+meta-data#android.preference
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:321:13-323:63
+	android:resource
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:323:17-60
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:322:17-50
+activity#interdroid.swan.sensors.impl.SmartLocationSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:325:9-360:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:327:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:328:13-57
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:326:13-83
+intent-filter#interdroid.swan.sensor.DISCOVER
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:329:13-331:29
+action#interdroid.swan.sensor.DISCOVER
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:330:17-74
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:330:25-71
+meta-data#entityId
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:333:13-335:50
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:335:17-47
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:334:17-40
+meta-data#valuePaths
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:336:13-338:51
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:338:17-48
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:337:17-42
+meta-data#max_speed
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:339:13-341:41
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:341:17-38
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:340:17-41
+meta-data#latitude
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:342:13-344:44
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:344:17-41
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:343:17-40
+meta-data#longitude
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:345:13-347:44
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:347:17-41
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:346:17-41
+meta-data#provider
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:348:13-350:43
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:350:17-40
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:349:17-40
+meta-data#range
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:351:13-353:42
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:353:17-39
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:352:17-37
+meta-data#authority
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:354:13-356:75
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:356:17-72
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:355:17-41
+meta-data#units
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:357:13-359:51
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:359:17-48
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:358:17-37
+activity#interdroid.swan.sensors.impl.GyroscopeSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:361:9-384:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:363:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:364:13-52
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:362:13-79
+meta-data#accuracy
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:375:13-377:37
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:377:17-34
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:376:17-40
+meta-data#delay
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:378:13-380:42
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:380:17-39
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:379:17-37
+activity#interdroid.swan.sensors.impl.LightSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:385:9-408:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:387:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:388:13-48
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:386:13-75
+activity#interdroid.swan.sensors.impl.MagnetometerSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:409:9-432:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:411:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:412:13-55
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:410:13-82
+activity#interdroid.swan.sensors.impl.PressureSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:433:9-456:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:435:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:436:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:434:13-78
+activity#interdroid.swan.sensors.impl.ProximitySensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:457:9-480:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:459:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:460:13-52
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:458:13-79
+activity#interdroid.swan.sensors.impl.TemperatureSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:481:9-504:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:483:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:484:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:482:13-81
+activity#interdroid.swan.sensors.impl.BatterySensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:505:9-531:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:507:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:508:13-50
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:506:13-77
+activity#interdroid.swan.sensors.impl.BluetoothSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:532:9-557:20
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:536:13-55
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:534:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:535:13-52
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:533:13-79
+meta-data#discovery_interval
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:548:13-550:43
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:550:17-40
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:549:17-50
+activity#interdroid.swan.sensors.impl.CalendarSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:558:9-587:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:560:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:561:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:559:13-78
+meta-data#sample_interval
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:572:13-574:43
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:574:17-40
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:573:17-47
+meta-data#private_calendar_urL
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:575:13-577:44
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:577:17-41
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:576:17-52
+meta-data#ignore_free_events
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:578:13-580:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:580:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:579:17-50
+meta-data#ignore_allday_events
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:581:13-583:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:583:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:582:17-52
+activity#interdroid.swan.sensors.impl.CallSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:588:9-608:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:590:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:591:13-47
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:589:13-74
+activity#interdroid.swan.sensors.impl.SignalStrengthSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:609:9-629:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:611:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:612:13-49
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:610:13-84
+activity#interdroid.swan.sensors.impl.IntentSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:630:9-647:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:632:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:633:13-49
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:631:13-76
+activity#interdroid.swan.sensors.impl.LocationSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:648:9-677:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:650:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:651:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:649:13-78
+meta-data#min_distance
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:662:13-664:38
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:664:17-35
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:663:17-44
+meta-data#min_time
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:665:13-667:38
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:667:17-35
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:666:17-40
+activity#interdroid.swan.sensors.impl.LogCatSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:678:9-698:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:680:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:681:13-49
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:679:13-76
+meta-data#logcat_parameters
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:692:13-694:39
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:694:17-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:693:17-49
+activity#interdroid.swan.sensors.impl.MovementSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:699:9-722:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:701:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:702:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:700:13-78
+activity#interdroid.swan.sensors.impl.RainSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:723:9-746:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:725:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:726:13-47
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:724:13-74
+activity#interdroid.swan.sensors.impl.OVSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:747:9-770:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:749:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:750:13-45
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:748:13-72
+meta-data#value
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:761:13-763:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:763:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:762:17-37
+activity#interdroid.swan.sensors.impl.ServerSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:771:9-800:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:773:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:774:13-45
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:772:13-76
+meta-data#url
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:785:13-787:72
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:787:17-69
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:786:17-35
+meta-data#sensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:788:13-790:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:790:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:789:17-38
+meta-data#type
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:791:13-793:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:793:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:792:17-36
+meta-data#api_key
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:794:13-796:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:796:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:795:17-39
+activity#interdroid.swan.sensors.impl.FitnessSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:801:9-818:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:803:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:804:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:802:13-77
+activity#interdroid.swan.sensors.impl.ScreenSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:819:9-839:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:821:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:822:13-49
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:820:13-76
+activity#interdroid.swan.sensors.impl.SoundSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:840:9-875:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:842:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:843:13-48
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:841:13-75
+meta-data#sample_rate
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:857:13-859:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:859:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:858:17-43
+meta-data#audio_source
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:860:13-862:37
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:862:17-34
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:861:17-44
+meta-data#audio_format
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:863:13-865:37
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:865:17-34
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:864:17-44
+meta-data#channel_config
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:866:13-868:37
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:868:17-34
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:867:17-46
+meta-data#peak_db
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:869:13-871:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:871:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:870:17-39
+activity#interdroid.swan.sensors.TimeSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:876:9-893:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:878:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:879:13-47
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:877:13-69
+activity#interdroid.swan.sensors.impl.TwitterSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:894:9-903:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:896:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:895:13-77
+activity#interdroid.swan.sensors.impl.WifiSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:904:9-933:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:906:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:907:13-47
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:905:13-74
+meta-data#ssid
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:921:13-923:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:923:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:922:17-36
+meta-data#bssid
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:924:13-926:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:926:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:925:17-37
+activity#interdroid.swan.sensors.impl.PolarHeartRate$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:934:9-958:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:936:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:937:13-52
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:935:13-78
+meta-data#device_name
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:949:13-951:45
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:951:17-42
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:950:17-43
+activity#interdroid.swan.sensors.impl.StepDetectorSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:959:9-982:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:961:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:962:13-42
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:960:13-82
+service#interdroid.swan.sensors.impl.StepDetectorSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:984:9-987:53
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:987:13-50
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:986:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:985:13-60
+activity#interdroid.swan.sensors.impl.StepCounterSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:989:9-1012:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:991:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:992:13-42
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:990:13-81
+activity#interdroid.swan.sensors.cuckoo.TrainSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1013:9-1045:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1015:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1016:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1014:13-77
+meta-data#from
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1029:13-1031:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1031:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1030:17-36
+meta-data#to
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1032:13-1034:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1034:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1033:17-34
+meta-data#time
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1038:13-1040:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1040:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1039:17-36
+activity#interdroid.swan.sensors.cuckoo.NewsSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1046:9-1069:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1048:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1049:13-47
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1047:13-76
+meta-data#category
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1059:13-1061:44
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1061:17-41
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1060:17-40
+activity#interdroid.swan.sensors.cuckoo.CuckooRainSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1070:9-1099:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1072:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1073:13-46
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1071:13-82
+meta-data#lat
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1086:13-1088:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1088:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1087:17-35
+meta-data#lon
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1089:13-1091:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1091:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1090:17-35
+meta-data#window
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1092:13-1094:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1094:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1093:17-38
+activity#interdroid.swan.sensors.cuckoo.ServerSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1100:9-1125:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1102:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1101:13-78
+meta-data#timeout
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1115:13-1117:41
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1117:17-38
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1116:17-39
+activity#interdroid.swan.sensors.cuckoo.FlightSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1126:9-1167:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1128:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1129:13-46
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1127:13-78
+meta-data#source
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1142:13-1144:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1144:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1143:17-38
+meta-data#destination
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1145:13-1147:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1147:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1146:17-43
+meta-data#flight_date
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1148:13-1150:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1150:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1149:17-43
+meta-data#max_stops
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1151:13-1153:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1153:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1152:17-41
+meta-data#max_price
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1154:13-1156:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1156:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1155:17-41
+meta-data#max_connection_duration
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1157:13-1159:40
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1159:17-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1158:17-55
+meta-data#flight_cabin_type
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1160:13-1162:41
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1162:17-38
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1161:17-49
+service#interdroid.swan.sensors.cuckoo.FlightSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1169:9-1172:47
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1172:13-44
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1171:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1170:13-56
+service#interdroid.swan.sensors.cuckoo.TrainSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1173:9-1176:46
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1176:13-43
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1175:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1174:13-55
+service#interdroid.swan.sensors.cuckoo.ServerSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1177:9-1180:53
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1180:13-50
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1179:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1178:13-56
+service#interdroid.swan.sensors.cuckoo.CuckooRainSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1181:9-1184:51
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1184:13-48
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1183:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1182:13-60
+service#interdroid.swan.sensors.cuckoo.NewsSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1185:9-1188:45
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1188:13-42
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1187:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1186:13-54
+service#interdroid.cuckoo.CuckooServiceLocal
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1191:9-1193:41
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1193:13-38
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1192:13-64
+service#interdroid.swan.sensors.impl.StepCounterSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1194:9-1197:52
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1197:13-49
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1196:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1195:13-59
+service#interdroid.swan.sensors.impl.BatterySensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1198:9-1201:48
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1201:13-45
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1200:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1199:13-55
+service#interdroid.swan.sensors.impl.TemperatureSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1202:9-1205:52
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1205:13-49
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1204:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1203:13-59
+service#interdroid.swan.sensors.impl.ProximitySensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1206:9-1209:50
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1209:13-47
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1208:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1207:13-57
+service#interdroid.swan.sensors.impl.PressureSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1210:9-1213:49
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1213:13-46
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1212:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1211:13-56
+service#interdroid.swan.sensors.impl.PolarHeartRate
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1214:9-1217:49
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1217:13-46
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1216:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1215:13-56
+service#interdroid.swan.sensors.impl.MagnetometerSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1218:9-1221:53
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1221:13-50
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1220:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1219:13-60
+service#interdroid.swan.sensors.impl.LightSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1222:9-1225:46
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1225:13-43
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1224:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1223:13-53
+service#interdroid.swan.sensors.impl.GyroscopeSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1226:9-1229:50
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1229:13-47
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1228:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1227:13-57
+service#interdroid.swan.sensors.impl.MovementSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1230:9-1233:49
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1233:13-46
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1232:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1231:13-56
+service#interdroid.swan.sensors.impl.SoundSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1234:9-1237:46
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1237:13-43
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1236:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1235:13-53
+service#interdroid.swan.sensors.impl.BluetoothSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1238:9-1241:50
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1241:13-47
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1240:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1239:13-57
+service#interdroid.swan.sensors.impl.SignalStrengthSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1242:9-1245:47
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1245:13-44
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1244:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1243:13-62
+service#interdroid.swan.sensors.impl.ScreenSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1246:9-1249:47
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1249:13-44
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1248:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1247:13-54
+service#interdroid.swan.sensors.impl.LocationSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1250:9-1253:49
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1253:13-46
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1252:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1251:13-56
+service#interdroid.swan.sensors.impl.SmartLocationSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1254:9-1257:54
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1257:13-51
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1256:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1255:13-61
+service#interdroid.swan.sensors.impl.CallSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1258:9-1261:45
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1261:13-42
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1260:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1259:13-52
+service#interdroid.swan.sensors.impl.WifiSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1262:9-1265:45
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1265:13-42
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1264:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1263:13-52
+service#interdroid.swan.sensors.impl.RainSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1266:9-1269:45
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1269:13-42
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1268:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1267:13-52
+service#interdroid.swan.sensors.impl.FitnessSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1270:9-1273:48
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1273:13-45
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1272:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1271:13-55
+service#interdroid.swan.sensors.impl.FitnessSensor$MessengerService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1274:9-1276:40
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1276:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1275:13-72
+service#interdroid.swan.sensors.impl.OVSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1277:9-1280:43
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1280:13-40
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1279:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1278:13-50
+service#interdroid.swan.sensors.impl.ServerSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1281:9-1284:47
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1284:13-44
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1283:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1282:13-54
+service#interdroid.swan.sensors.impl.CalendarSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1285:9-1288:49
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1288:13-46
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1287:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1286:13-56
+service#interdroid.swan.sensors.impl.LogCatSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1289:9-1292:47
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1292:13-44
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1291:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1290:13-54
+service#interdroid.swan.sensors.impl.IntentSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1293:9-1296:47
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1296:13-44
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1295:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1294:13-54
+service#nl.sense_os.service.SenseService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1300:9-1308:19
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1302:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1301:13-60
+intent-filter#interdroid.swan.SENSE_SERVICE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1303:13-1307:29
+action#interdroid.swan.SENSE_SERVICE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1306:17-72
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1306:25-69
+service#nl.sense_os.service.MsgHandler
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1311:9-1318:19
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1313:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1312:13-58
+intent-filter#interdroid.swan.NEW_DATA+interdroid.swan.SEND_DATA
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1314:13-1317:29
+action#interdroid.swan.NEW_DATA
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1315:17-67
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1315:25-64
+action#interdroid.swan.SEND_DATA
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1316:17-68
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1316:25-65
+service#nl.sense_os.service.commonsense.DefaultSensorRegistrationService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1320:9-100
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1320:18-97
+service#nl.sense_os.service.configuration.ConfigurationService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1324:9-90
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1324:18-87
+receiver#nl.sense_os.service.BootRx
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1327:9-1335:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1329:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1328:13-54
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1330:13-1334:29
+category#android.intent.category.HOME
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1333:17-73
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1333:27-70
+receiver#nl.sense_os.service.AliveChecker
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1337:9-1345:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1339:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1338:13-60
+intent-filter#interdroid.swan.CHECK_ALIVE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1340:13-1344:29
+action#interdroid.swan.CHECK_ALIVE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1343:17-70
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1343:25-67
+receiver#nl.sense_os.service.NetworkMonitor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1347:9-1353:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1349:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1348:13-62
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1350:13-1352:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1351:17-79
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1351:25-76
+receiver#nl.sense_os.service.scheduler.ExecutionAlarmReceiver
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1355:9-89
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1355:19-86
+receiver#nl.sense_os.service.configuration.RequirementReceiver
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1359:9-1367:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1361:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1360:13-81
+intent-filter#interdroid.swan.NEW_REQUIREMENTS
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1362:13-1366:29
+action#interdroid.swan.NEW_REQUIREMENTS
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1365:17-75
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1365:25-72
+service#interdroid.swan.sensors.impl.wear.shared.SensorReceiverService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1382:9-1400:19
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1382:18-80
+intent-filter#com.google.android.gms.wearable.CAPABILITY_CHANGED+com.google.android.gms.wearable.CHANNEL_EVENT+com.google.android.gms.wearable.DATA_CHANGED+com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1383:13-1399:29
+action#com.google.android.gms.wearable.DATA_CHANGED
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1386:17-87
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1386:25-84
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1387:17-91
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1387:25-88
+action#com.google.android.gms.wearable.CAPABILITY_CHANGED
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1388:17-93
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1388:25-90
+action#com.google.android.gms.wearable.CHANNEL_EVENT
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1389:17-88
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1389:25-85
+activity#interdroid.swan.sensors.impl.wear.HeartRateSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1406:9-1426:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1408:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1409:13-52
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1407:13-84
+service#interdroid.swan.sensors.impl.wear.HeartRateSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1428:9-1431:54
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1431:13-51
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1430:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1429:13-62
+activity#interdroid.swan.sensors.impl.wear.WearMovementSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1434:9-1457:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1436:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1437:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1435:13-87
+service#interdroid.swan.sensors.impl.wear.WearMovementSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1459:9-1462:53
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1462:13-50
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1461:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1460:13-65
+activity#interdroid.swan.sensors.impl.wear.WearGyroscopeSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1465:9-1488:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1467:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1468:13-52
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1466:13-88
+service#interdroid.swan.sensors.impl.wear.WearGyroscopeSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1490:9-1493:54
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1493:13-51
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1492:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1491:13-66
+activity#interdroid.swan.sensors.impl.wear.WearGameRotationSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1496:9-1519:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1498:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1499:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1497:13-91
+service#interdroid.swan.sensors.impl.wear.WearGameRotationSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1522:9-1525:57
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1525:13-54
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1524:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1523:13-69
+activity#interdroid.swan.sensors.impl.wear.WearLightSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1527:9-1550:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1529:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1530:13-48
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1528:13-84
+service#interdroid.swan.sensors.impl.wear.WearLightSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1552:9-1555:50
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1555:13-47
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1554:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1553:13-62
+activity#interdroid.swan.sensors.impl.wear.WearLinearAcceleration$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1558:9-1581:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1560:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1561:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1559:13-91
+service#interdroid.swan.sensors.impl.wear.WearLinearAcceleration
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1583:9-1586:54
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1586:13-51
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1585:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1584:13-69
+activity#interdroid.swan.sensors.impl.wear.WearStepCounterSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1588:9-1611:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1590:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1591:13-42
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1589:13-90
+service#interdroid.swan.sensors.impl.wear.WearStepCounterSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1613:9-1616:56
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1616:13-53
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1615:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1614:13-68
+activity#interdroid.swan.sensors.impl.wear.WearGravitySensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1619:9-1642:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1621:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1622:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1620:13-86
+service#interdroid.swan.sensors.impl.wear.WearGravitySensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1644:9-1647:52
+	android:process
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1647:13-49
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1646:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1645:13-64
+activity#interdroid.swan.sensors.impl.BeaconDiscoverySensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1650:9-1673:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1652:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1653:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1651:13-85
+service#interdroid.swan.sensors.impl.BeaconDiscoverySensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1675:9-71
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1675:18-68
+activity#interdroid.swan.sensors.impl.BeaconTempSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1677:9-1700:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1679:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1680:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1678:13-80
+service#interdroid.swan.sensors.impl.BeaconTempSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1702:9-66
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1702:18-63
+provider#interdroid.cuckoo.resourcemanager.ResourceManagerProvider
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1705:9-1708:39
+	android:authorities
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1707:13-68
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1708:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1706:13-85
+activity#interdroid.cuckoo.resourcemanager.ResourcesActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1710:9-1712:48
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1712:13-45
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1711:13-79
+activity#interdroid.swan.sensors.impl.BeaconDistanceSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1713:9-1736:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1715:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1716:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1714:13-84
+service#interdroid.swan.sensors.impl.BeaconDistanceSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1738:9-70
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1738:18-67
+activity#interdroid.swan.sensors.impl.BeaconMovementSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1740:9-1763:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1742:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1743:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1741:13-84
+service#interdroid.swan.sensors.impl.BeaconMovementSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1765:9-70
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1765:18-67
+activity#interdroid.swan.sensors.impl.BeaconMotionSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1767:9-1790:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1769:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1770:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1768:13-82
+service#interdroid.swan.sensors.impl.BeaconMotionSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1792:9-68
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1792:18-65
+service#interdroid.swan.crossdevice.beacon.BeaconSingleton
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1793:9-71
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1793:18-68
+activity#interdroid.swan.sensors.impl.wear.WearTestSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1795:9-1818:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1797:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1798:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1796:13-83
+service#interdroid.swan.sensors.impl.wear.WearTestSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1820:9-69
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1820:18-66
+activity#interdroid.swan.sensors.impl.TestSensor$ConfigurationActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1822:9-1845:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1824:13-36
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1825:13-51
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1823:13-74
+service#interdroid.swan.sensors.impl.TestSensor
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1847:9-60
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1847:18-57
+activity#interdroid.swan.actuators.ActuatorManager
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1851:9-1861:20
+	android:screenOrientation
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1855:13-49
+	android:label
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1854:13-46
+	android:icon
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1853:13-54
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1852:13-54
+activity#interdroid.swan.actuators.PluginActuatorsActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1862:9-71
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1862:19-68
+meta-data#droidparts_dependency_provider
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1864:9-1866:61
+	android:value
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1866:13-58
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1865:13-58
+service#interdroid.swan.actuators.services.MyFirebaseMessagingService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1868:9-1872:19
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1868:18-79
+service#interdroid.swan.actuators.jobs.gcm.PlatformGcmService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1873:9-1880:19
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1875:13-36
+	android:permission
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1876:13-93
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1874:13-66
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1877:13-1879:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1878:17-87
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1878:25-84
+service#interdroid.swan.actuators.jobs.v21.PlatformJobService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1881:9-1884:72
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1883:13-37
+	android:permission
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1884:13-69
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1882:13-66
+service#interdroid.swan.actuators.jobs.v14.PlatformAlarmService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1885:9-1887:40
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1887:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1886:13-68
+receiver#interdroid.swan.actuators.jobs.v14.PlatformAlarmReceiver
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1889:9-1898:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1891:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1890:13-69
+intent-filter#com.evernote.android.job.v14.RUN_JOB+net.vrallev.android.job.v14.RUN_JOB
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1892:13-1897:29
+action#com.evernote.android.job.v14.RUN_JOB
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1895:17-79
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1895:25-76
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1896:17-78
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1896:25-75
+receiver#interdroid.swan.actuators.jobs.JobBootReceiver
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1899:9-1905:20
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1901:13-37
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1900:13-59
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1902:13-1904:29
+service#interdroid.swan.actuators.services.MyFirebaseInstanceIDService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1907:9-1911:19
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1907:18-80
+service#interdroid.swan.actuators.RemoteService
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1912:9-1918:19
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1914:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1913:13-52
+intent-filter#swanstudioremoteservice
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1915:13-1917:29
+action#swanstudioremoteservice
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1916:17-66
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1916:25-63
+activity#interdroid.swan.actuators.activities.ParametersActivity
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1924:9-77
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1924:19-74
+activity#interdroid.swan.actuators.MapPane
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1927:9-64
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1927:19-52
+receiver#interdroid.swan.actuators.ExpressionReceiver
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1929:9-1936:20
+	android:enabled
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1931:13-35
+	android:exported
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1932:13-36
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1930:13-57
+intent-filter#ExpressionRequests
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1933:13-1935:29
+action#ExpressionRequests
+ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1934:17-61
+	android:name
+		ADDED from /Users/rm/Desktop/swanwithactstudio/phone/src/main/AndroidManifest.xml:1934:25-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/AndroidManifest.xml:9:13-58
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/AndroidManifest.xml:30:19-91
+uses-permission-sdk-23
+ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:15:5-88
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:15:29-85
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:18:19-87
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:21:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:21:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:22:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:22:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:26:9-31:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:28:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:29:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:27:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:32:9-35:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.8.1] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/AndroidManifest.xml:33:13-70
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/AndroidManifest.xml:25:13-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/AndroidManifest.xml:52:13-77
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] /Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/AndroidManifest.xml:37:11-82

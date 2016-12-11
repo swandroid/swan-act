@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/senseandroidlibrary/build/intermediates/res/merged/release/drawable-mdpi-v11/ic_stat_sense_error.png",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/senseandroidlibrary/src/main/res/drawable-mdpi-v11/ic_stat_sense_error.png"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/senseandroidlibrary/build/intermediates/res/merged/release/drawable-mdpi-v11/ic_stat_sense_warning.png",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/senseandroidlibrary/src/main/res/drawable-mdpi-v11/ic_stat_sense_warning.png"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/senseandroidlibrary/build/intermediates/res/merged/release/drawable-mdpi-v11/ic_stat_sense.png",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/senseandroidlibrary/src/main/res/drawable-mdpi-v11/ic_stat_sense.png"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/senseandroidlibrary/build/intermediates/res/merged/release/drawable-mdpi-v11/ic_stat_sense_warning.png",
+        "source": "/Users/rm/Desktop/swanwithactstudio/senseandroidlibrary/src/main/res/drawable-mdpi-v11/ic_stat_sense_warning.png"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/senseandroidlibrary/build/intermediates/res/merged/release/drawable-mdpi-v11/ic_stat_sense.png",
+        "source": "/Users/rm/Desktop/swanwithactstudio/senseandroidlibrary/src/main/res/drawable-mdpi-v11/ic_stat_sense.png"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/senseandroidlibrary/build/intermediates/res/merged/release/drawable-mdpi-v11/ic_stat_sense_error.png",
+        "source": "/Users/rm/Desktop/swanwithactstudio/senseandroidlibrary/src/main/res/drawable-mdpi-v11/ic_stat_sense_error.png"
+    }
+]

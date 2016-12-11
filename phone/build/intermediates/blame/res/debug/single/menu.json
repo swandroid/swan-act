@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/menu/swanlake_nearby_peers_bar.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/menu/swanlake_nearby_peers_bar.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/menu/swanlake_cab.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/menu/swanlake_cab.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/menu/expressionviewer.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/menu/expressionviewer.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/menu/sensorviewer.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/menu/sensorviewer.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/menu/test_menu.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/menu/test_menu.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/menu/test_menu.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/menu/test_menu.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/menu/sensorviewer.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/menu/sensorviewer.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/menu/swanlake.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/menu/swanlake.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/menu/swanlake.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/menu/swanlake.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/menu/swanlake_nearby_peers_bar.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/menu/swanlake_nearby_peers_bar.xml"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/menu/swanlake_cab.xml",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/src/main/res/menu/swanlake_cab.xml"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/menu/expressionviewer.xml",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/src/main/res/menu/expressionviewer.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/drawable-ldpi-v11/ic_stat_sense.png",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/senseandroidlibrary/unspecified/res/drawable-ldpi-v11/ic_stat_sense.png"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/drawable-ldpi-v11/ic_stat_sense.png",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/senseandroidlibrary/unspecified/res/drawable-ldpi-v11/ic_stat_sense.png"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/drawable-ldpi-v11/ic_stat_sense_warning.png",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/senseandroidlibrary/unspecified/res/drawable-ldpi-v11/ic_stat_sense_warning.png"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/drawable-ldpi-v11/ic_stat_sense_error.png",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/senseandroidlibrary/unspecified/res/drawable-ldpi-v11/ic_stat_sense_error.png"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/drawable-ldpi-v11/ic_stat_sense_warning.png",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/senseandroidlibrary/unspecified/res/drawable-ldpi-v11/ic_stat_sense_warning.png"
+    },
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/drawable-ldpi-v11/ic_stat_sense_error.png",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/senseandroidlibrary/unspecified/res/drawable-ldpi-v11/ic_stat_sense_error.png"
+    }
+]

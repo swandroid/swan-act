@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/phone/phone.iml" filepath="$PROJECT_DIR$/phone/phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/senseandroidlibrary/senseandroidlibrary.iml" filepath="$PROJECT_DIR$/senseandroidlibrary/senseandroidlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swancore/swancore.iml" filepath="$PROJECT_DIR$/swancore/swancore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swaninterface/swaninterface.iml" filepath="$PROJECT_DIR$/swaninterface/swaninterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swansong/swansong.iml" filepath="$PROJECT_DIR$/swansong/swansong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swanwithactstudio.iml" filepath="$PROJECT_DIR$/swanwithactstudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttn-android-sdk/ttn-android-sdk.iml" filepath="$PROJECT_DIR$/ttn-android-sdk/ttn-android-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wear/wear.iml" filepath="$PROJECT_DIR$/wear/wear.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr-rRS/values-sr-rRS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-sr-rRS/values-sr-rRS.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 65,
+                        "endOffset": 262
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr-rRS/values-sr-rRS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/net.danlew/android.joda/2.8.2/res/values-sr-rRS/values-sr-rRS.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 65,
+                        "endOffset": 262
+                    }
+                }
+            }
+        ]
+    }
+]

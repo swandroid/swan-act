@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/res/merged/debug/drawable-xxxhdpi-v11/ic_stat_swan.png",
+        "source": "/Users/rm/Downloads/swan-sense-studio-master/phone/build/intermediates/exploded-aar/swan-sense-studio-master/swancore/unspecified/res/drawable-xxxhdpi-v11/ic_stat_swan.png"
+    },
+    {
+        "merged": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/res/merged/debug/drawable-xxxhdpi-v11/ic_stat_swan.png",
+        "source": "/Users/rm/Desktop/swanwithactstudio/phone/build/intermediates/exploded-aar/swanwithactstudio/swancore/unspecified/res/drawable-xxxhdpi-v11/ic_stat_swan.png"
+    }
+]
